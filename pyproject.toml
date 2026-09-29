@@ -1,0 +1,8 @@
+[project]
+name = "montage-wallpaper"
+version = "0.1.0"
+description = "Generate desktop wallpaper montages from a folder of images"
+requires-python = ">=3.10"
+dependencies = [
+    "pillow>=12.3.0",
+]
